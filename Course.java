@@ -2,9 +2,9 @@ package springjspservlet;
 
 public class Course {
 	
-	private Integer Id;
-	private String CourseName;
-	private Integer duration;
+	private Integer Id1;
+	private String CourseName1;
+	private Integer duration1;
 	
 	
 	public Integer getId() {
